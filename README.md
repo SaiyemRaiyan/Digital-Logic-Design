@@ -1,2 +1,2 @@
-# CSE231(Digital Logic Design)
+Digital Logic Design
  
