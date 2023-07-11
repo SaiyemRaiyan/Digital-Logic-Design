@@ -1,4 +1,4 @@
-                                                   Digital Logic Design
+                                                         Digital Logic Design
 
 
 Digital logic design is a fundamental aspect of computer engineering and electronics that focuses on designing and constructing digital circuits. These circuits are the building blocks of various digital devices, ranging from simple calculators to complex computer systems. Digital logic design involves the manipulation and processing of binary information using logic gates, which are electronic devices that perform logical operations on input signals to produce output signals.
